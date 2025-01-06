@@ -1,5 +1,4 @@
-# Assignment1
-Core Java Constructs
+# Assignment 1 - Core Java Constructs
 
 There are four items to submit on Gradescope for this assignment:
 - [ ] Short answers to understand how to trace through code segments in Java.
