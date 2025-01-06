@@ -2,10 +2,10 @@
 Core Java Constructs
 
 There are four items to submit on Gradescope for this assignment:
-- [] Short answers to understand how to trace through code segments in Java.
-- [] Fixing mistakes to understand common errors in Java syntax and interpret error messages accordingly.
-- [] Writing methods using core java constructs
-- [] Starting your game development to put your learning into practice in a creative way
+- [ ] Short answers to understand how to trace through code segments in Java.
+- [ ] Fixing mistakes to understand common errors in Java syntax and interpret error messages accordingly.
+- [ ] Writing methods using core java constructs
+- [ ] Starting your game development to put your learning into practice in a creative way
 
 ## Part 1: Code Tracing
 In this section, you will read and interpret Java code and answer questions 
