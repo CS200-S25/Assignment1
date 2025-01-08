@@ -7,11 +7,12 @@ There are four exercises for this assignment:
 - [ ] Starting your game development to put your learning into practice in a creative way
 
 ## Part 1: Code Tracing
-In this section, you will read and interpret Java code and answer questions 
-about common mistakes in Java syntax. Complete the questions in Part1.txt.
+In this part, you will read and interpret Java code and trace programs by hand. Print and complete the questions in Assignment1_Part1.pdf.
 
 Goals:
- * Comprehend Java code and understand how to trace through code segments in Java.
+ * Comprehend Java code and understand how to trace through code segments in Java
+ * Practice with memory models and tracing programs by hand
+ * Understanding data type conversions, return statements, and core Java syntax
 
 ## Part 2: Fixing Mistakes
 Complete the questions in Mistakes.java. By the end of this task, Mistakes.java should compile and run smoothly.
