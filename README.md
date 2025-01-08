@@ -1,6 +1,6 @@
 # Assignment 1 - Core Java Constructs
 
-There are four items to submit on Gradescope for this assignment:
+There are four exercises for this assignment:
 - [ ] Short answers to understand how to trace through code segments in Java.
 - [ ] Fixing mistakes to understand common errors in Java syntax and interpret error messages accordingly.
 - [ ] Writing methods using core java constructs
@@ -8,19 +8,16 @@ There are four items to submit on Gradescope for this assignment:
 
 ## Part 1: Code Tracing
 In this section, you will read and interpret Java code and answer questions 
-about common mistakes in Java syntax. Complete the questions in Part1.txt and 
-Mistakes.java. By the end of this task, Mistakes.java should compile and run 
-smoothly.
+about common mistakes in Java syntax. Complete the questions in Part1.txt.
 
 Goals:
- * Comprehend Java code and understand how to trace through code segments 
- in Java.
+ * Comprehend Java code and understand how to trace through code segments in Java.
 
 ## Part 2: Fixing Mistakes
+Complete the questions in Mistakes.java. By the end of this task, Mistakes.java should compile and run smoothly.
 
 Goals:
- * Understand common errors in Java syntax and interpret error messages 
- accordingly.
+ * Understand common errors in Java syntax and interpret error messages accordingly.
  * Understand Javadoc and how it should be formatted for this course.
 
 ## Part 3: Writing Code
@@ -73,3 +70,5 @@ Project > New Project) in a directory of your choice. Then, copy the provided
 file Game.java and follow the instructions. When you're done working in your 
 project folder, copy and paste the code you've written back into this repository.
 
+## Submission
+Submit your files to Gradescope.
