@@ -48,7 +48,7 @@ text-based games we've provided and reflecting on what aspects you might include
 in your game. Additionally, you will get a first look at what adventure game 
 source code might look like.
 
-## Part 4: Charting Your Adventure Game
+### Task 1: Charting Your Adventure Game
 In this task, we'd like you to draw a map of your adventure game. According to 
 whatever theme you've chosen, chart a map (on paper!) of your game's world. 
 Include the following elements:
@@ -65,7 +65,7 @@ elements that you'd like.
 When you're finished, take a picture of your map and upload a .png or .jpeg file to 
 this repository.
 
-## Part 5: First Adventure Game File
+### Task 2: First Adventure Game File
 To begin your adventure game project, create a new BlueJ project (Open BlueJ >
 Project > New Project) in a directory of your choice. Then, copy the provided 
 file Game.java and follow the instructions. When you're done working in your 
