@@ -22,31 +22,20 @@ Goals:
  * Understand Javadoc and how it should be formatted for this course.
 
 ## Part 3: Writing Code
-In this section, you will write your own methods and first Java program to 
-model a well-known game. This requires effective command of Java constructs, 
-including some APIs we introduced in class. You will continue to build your 
-skills with arrays, loops, conditionals, and more Java constructs throughout 
-the semester. Complete the file RPS.java.
+In this section, you will write your own methods and first Java program to model a well-known game. This requires effective command of Java constructs, 
+including some APIs we introduced in class (Scanner and Random). You will continue to build your skills with loops, conditionals, and more Java constructs throughout 
+the semester. Complete the file RPS.java for this task.
+
+Note: There is some code in this starter file that we have not yet covered in class (arrays). You do not need to write any array-related code to complete this assignment. This is a chance to see an up-coming topic. 
 
 Goals:
- * Understand how to compile and run a simple Java program to interact with 
-   user input.
+ * Understand how to compile and run a simple Java program to interact with user input.
  * Gain experience with BlueJ, output, and interacting with Java programs.
- * Write effective Javadoc to ensure outside users can easily comprehend 
-   the purpose of code.
+ * Write effective Javadoc to ensure outside users can easily comprehend the purpose of code.
+ * Create a Java class that manages specific state and behaviors.
  
 ## Part 4: Introduction to Adventure Games
-Throughout the PSETs and assignments in this course, you will slowly develop 
-your own text-based adventure game. You are welcome to choose whatever theme 
-you'd like, and you can add additional functionality unique to your theme as 
-the course goes along. This project will be broken down for you into 
-manageable parts, and we're excited to see your creativity and play your games 
-at the end of the semester. This is meant to provide you with hands-on project 
-experience, which you may include on your resume or GitHub profile in the future. 
-For this PSET, we'd like you to start brainstorming a theme by playing the 
-text-based games we've provided and reflecting on what aspects you might include 
-in your game. Additionally, you will get a first look at what adventure game 
-source code might look like.
+Throughout the PSETs and assignments in this course, you will slowly develop your own text-based adventure game. You are welcome to choose whatever theme you'd like, and you can add additional functionality unique to your theme as the course goes along. This project will be broken down for you into manageable parts, and we're excited to see your creativity and play your games at the end of the semester. This is meant to provide you with hands-on project experience, which you may include on your resume or GitHub profile in the future. For this PSET, we'd like you to start brainstorming a theme by playing the text-based games we've provided and reflecting on what aspects you might include in your game. Additionally, you will get a first look at what adventure game source code might look like.
 
 ### Task 1: Charting Your Adventure Game
 In this task, we'd like you to draw a map of your adventure game. According to 
