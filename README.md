@@ -34,24 +34,16 @@ Goals of this part:
  * Create a Java class that manages specific state and behaviors.
  
 ## Part 4: Introduction to Adventure Games
-Throughout the PSETs and assignments in this course, you will slowly develop your own text-based adventure game. You are welcome to choose whatever theme you'd like, and you can add additional functionality unique to your theme as the course goes along. This project will be broken down for you into manageable parts, and we're excited to see your creativity and play your games at the end of the semester. This is meant to provide you with hands-on project experience, which you may include on your resume or GitHub profile in the future. For this PSET, we'd like you to start brainstorming a theme by playing the text-based games we've provided and reflecting on what aspects you might include in your game. Additionally, you will get a first look at what adventure game source code might look like.
+Throughout the next assignments in this course, you will be developping different components for your own text-based adventure game. You must choose your own theme for your game and you will be able to add your own creativity to this part of the assignments. This game will be broken down for you into manageable parts, each tackling topics related to the course. This is meant to provide you with hands-on project experience, which you may include on your resume or GitHub profile in the future. For this Part 4 in Assignment 1, we'd like you to start brainstorming a theme by playing the text-based games we've provided and reflecting on what aspects you might include in your game. Additionally, you will get a first look at what adventure game source code might look like.
 
-### Task 1: Charting Your Adventure Game
-In this task, we'd like you to draw a map of your adventure game. According to 
-whatever theme you've chosen, chart a map (on paper!) of your game's world. 
-Include the following elements:
- * At least 4 rooms, with one room that is initially locked.
- * At least one treasure chest per room, with the key to the locked room inside one
-   of them, as well as at least two treasures (some food, some other treasures) 
-   per chest.
- * At least 3 animals, in multiple rooms, with differing values for the damage 
-   they can do.
- * Designate one room as the starting location, and number your rooms starting from 
-   zero.
-Feel free to be as artistic (or not) as you'd like, and you can include any extra 
-elements that you'd like.
-When you're finished, take a picture of your map and upload a .png or .jpeg file to 
-this repository.
+### Task 1: Creating a Map for Your Adventure Game
+In this task, we'd like you to draw a map of your adventure game. According to whatever theme you've chosen, chart a map (on paper!) of your game's world. This map must include the following elements:
+ * At least 4 rooms, with one room that is initially locked. The rooms must have doors and they must all be accessible, meaning that no room should be disconnected from the rest of the rooms. You decide how many doors each room has, and how they are connected. It is possible that rooms have doors that to not lead to another room. Each room must have a name.
+ * At least one treasure chest per room (all rooms must have a treasure chest), with the key to the locked room inside one of them, as well as at least two treasures (some food, some other treasures) per chest. Label these items in each room on your map.
+ * Your map must contain at least 3 animals (real or fictional) with differing values for the damage they can do. Add these animals to three different rooms (only one animal per room, not all rooms need to have an animal) by listing them in their corresponding room and specifying their damage.
+
+The requirement for this sketch is that it meets all of these criteria and that it is legible and clear.
+Feel free to be as artistic (or not) as you'd like.
 
 ### Task 2: First Adventure Game File
 To begin your adventure game project, create a new BlueJ project (Open BlueJ >
@@ -61,3 +53,4 @@ project folder, copy and paste the code you've written back into this repository
 
 ## Submission
 Submit your files to Gradescope.
+When you're finished, take a picture of your map and upload a .png or .jpeg file to this repository.
