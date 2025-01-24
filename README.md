@@ -71,6 +71,19 @@ Here is a summary of the TODO items:
 * In `Room` you will need to override the `toString()` to print a `Room`
 * In `Player` will need to create multiple getter and setter methods, and override the `toString()` method
 
-## Submission
-Submit your files to Gradescope.
-When you're finished, take a picture of your map and upload a .png or .jpeg file to this repository.
+## COLLABORATION
+This assignment is an individual assignment. You can discuss this assignment with your peers, TA and instructor. You cannot show code to your peers, you each write your own solutions. You can show code to the TAs and instructor. Additionally, you cannot use generative AI or online resources that are not linked from our course website to complete this assignment.  
+
+## SUBMISSION
+Submit the following files to Gradescope for Assignment 1:
+* take a picture of your solutions to Part 1 and upload a .png or .jpeg file to Gradescope
+* take a picture of your game map and upload a .png or .jpeg file to Gradescope
+* upload your solutions to `Mistakes.java`, `RPS.java`, `Game.java`, `Player.java`, `Room.java` to Gradescope
+
+Note: You can resubmit your assignment as many times as needed until the deadline. Every time you resubmit, make sure you submit *all* of the files for your assignment every time.
+
+## GRADING RUBRIC
+Your assignment will be graded on accuracy, code style (including good name conventions for methods and variables you create, indentation, clean code) and meaningful documentation. Make sure that all of your files have header-level javadoc descriptions and that all of your methods also have javadoc. Include in-line comments sparsely, only to explain code (or a programming decision) that is not self-apparent.
+
+## ASSIGNMENT SOLUTIONS
+Assignment solutions will not be shared. If you did not get full credit on the assignment, you should review the feedback and ask me or the TAs if you have further questions. 
