@@ -53,14 +53,14 @@ Your task is to complete the `TODO` items in each file to obtain a working game.
 You are starting in: Dungeon A dark, cold stone room
 Welcome to the game! What would you like to do?
 You can type 'go North', 'go South', 'go East', go West'
-<code style="color : blue">go North</code>
+>>go North
 No entry, player did not move.
 You are now in: Dungeon A dark, cold stone room
-<code style="color : blue">go East</code>
+>>>go East
 You are now in: Cottage A warm cozy cabin
-<code style="color : blue">go South</code>
+>>>go South
 You are now in: Forest A dense evergreen forest
-<code style="color : blue">go South</code>
+>>>go South
 No entry, player did not move.
 You are now in: Forest A dense evergreen forest
 ```
