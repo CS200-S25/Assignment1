@@ -7,9 +7,9 @@ There are four parts for assignment 1:
 - [ ] Part 4 - Starting your game development to put your learning into practice in a creative way
 
 ## Part 1: Code Tracing
-In part 1, you will read and interpret Java code and trace programs by hand. To complete this part, print and complete the questions in Assignment1_Part1.pdf by hand. You will submit a photo of 
+In part 1, you will read and interpret Java code and trace programs by hand. To complete this part, print and complete the questions in Assignment1_Part1.pdf by hand.
 
-Goals:
+Goals of this part:
  * Comprehend Java code and understand how to trace through code segments in Java
  * Practice with memory models and tracing programs by hand
  * Understanding data type conversions, return statements, and core Java syntax
@@ -17,7 +17,7 @@ Goals:
 ## Part 2: Fixing Mistakes
 Complete the questions in Mistakes.java. By the end of this task, Mistakes.java should compile and run smoothly.
 
-Goals:
+Goals of this part:
  * Understand common errors in Java syntax and interpret error messages accordingly.
  * Understand Javadoc and how it should be formatted for this course.
 
@@ -28,7 +28,7 @@ the semester. Complete the file RPS.java for this task.
 
 Note: There is some code in this starter file that we have not yet covered in class (arrays). You do not need to write any array-related code to complete this assignment. This is a chance to see an up-coming topic. 
 
-Goals:
+Goals of this part:
  * Understand how to compile and run a simple Java program to interact with user input.
  * Gain experience with BlueJ, output, and interacting with Java programs.
  * Write effective Javadoc to ensure outside users can easily comprehend the purpose of code.
