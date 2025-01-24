@@ -15,7 +15,7 @@ Goals of this part:
  * Understanding data type conversions, return statements, and core Java syntax
 
 ## Part 2: Fixing Mistakes
-Complete the questions in Mistakes.java. By the end of this task, Mistakes.java should compile and run smoothly.
+Complete the questions in 'Mistakes.java'. By the end of this task, 'Mistakes.java' should compile and run smoothly.
 
 Goals of this part:
  * Understand common errors in Java syntax and interpret error messages accordingly.
