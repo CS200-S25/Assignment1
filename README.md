@@ -1,13 +1,13 @@
 # Assignment 1 - Core Java Constructs
 
-There are four exercises for this assignment:
-- [ ] Short answers to understand how to trace through code segments in Java.
-- [ ] Fixing mistakes to understand common errors in Java syntax and interpret error messages accordingly.
-- [ ] Writing methods using core java constructs
-- [ ] Starting your game development to put your learning into practice in a creative way
+There are four parts for assignment 1:
+- [ ] Part 1 - Code Tracing with short answers to trace through code segments in Java
+- [ ] Part 2 - Fixing mistakes to understand common errors in Java syntax and interpret error messages accordingly
+- [ ] Part 3 - Writing methods using core java constructs
+- [ ] Part 4 - Starting your game development to put your learning into practice in a creative way
 
 ## Part 1: Code Tracing
-In this part, you will read and interpret Java code and trace programs by hand. Print and complete the questions in Assignment1_Part1.pdf.
+In part 1, you will read and interpret Java code and trace programs by hand. To complete this part, print and complete the questions in Assignment1_Part1.pdf by hand. You will submit a photo of 
 
 Goals:
  * Comprehend Java code and understand how to trace through code segments in Java
