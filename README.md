@@ -46,10 +46,24 @@ The requirement for this sketch is that it meets all of these criteria and that 
 Feel free to be as artistic (or not) as you'd like.
 
 ### Task 2: First Adventure Game File
-To begin your adventure game project, create a new BlueJ project (Open BlueJ >
-Project > New Project) in a directory of your choice. Then, copy the provided 
-file Game.java and follow the instructions. When you're done working in your 
-project folder, copy and paste the code you've written back into this repository.
+To begin programming your adventure game, open the files Game.java, Room.java, and Player.java from the starter code for this assignment. Start by looking at each class to understand how they are structured. Where is the `main()` method for your game? Where does the game ask for user input? What is the relationship between the three classes?
+
+Your task is to complete the `TODO` items in each file to obtain a working game. Once your game is functional, it will be able to run as such:
+```
+You are starting in: Dungeon A dark, cold stone room
+Welcome to the game! What would you like to do?
+You can type 'go North', 'go South', 'go East', go West'
+<code style="color : blue">go North</code>
+No entry, player did not move.
+You are now in: Dungeon A dark, cold stone room
+<code style="color : blue">go East</code>
+You are now in: Cottage A warm cozy cabin
+<code style="color : blue">go South</code>
+You are now in: Forest A dense evergreen forest
+<code style="color : blue">go South</code>
+No entry, player did not move.
+You are now in: Forest A dense evergreen forest
+```
 
 ## Submission
 Submit your files to Gradescope.
