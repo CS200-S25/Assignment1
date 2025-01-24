@@ -68,6 +68,8 @@ You are now in: Forest A dense evergreen forest
 Here is a summary of the TODO items:
 * In `Game` you will need to instantiate objects for the four `Room` objects of your game and add neighbors for each one to resemble the map that you created for your game. You will need to use the `getNeighbors()` method from `Room` which is already defined for you.
 * In `Game` you will also need to create an introductory text similar to `Welcome to the game! What would you like to do?` but using your own creativity.
+* In `Room` you will need to override the `toString()` to print a `Room`
+* In `Player` will need to create multiple getter and setter methods, and override the `toString()` method
 
 ## Submission
 Submit your files to Gradescope.
